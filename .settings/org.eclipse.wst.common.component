@@ -10,8 +10,8 @@
                 
         <wb-resource deploy-path="/WEB-INF/classes" source-path="/src/main/resources"/>
                 
-        <property name="java-output-path" value="/imple-web-app/target/classes"/>
-        <property name="context-root" value="simple-web-app"/>
+        <property name="java-output-path" value="/simple-web-app/target/classes"/>
+        <property name="context-root" value="imple-web-app"/>
             
     </wb-module>
     
